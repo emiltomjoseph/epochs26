@@ -1,4 +1,4 @@
-# 📊 Netflix Movies & TV Shows Dataset Analysis
+#  Netflix Movies & TV Shows Dataset Analysis
 
 > **μLearn Epochs '26 Bootcamp – Day 1 Assignment**
 >
@@ -6,19 +6,19 @@
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Emil Tom Joseph**
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 The objective of this assignment is to explore a real-world dataset, understand its purpose, identify potential business problems, determine the appropriate Machine Learning problem type, and perform basic exploratory data analysis using Pandas.
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 **Netflix Movies & TV Shows Dataset**
 
@@ -38,7 +38,7 @@ This dataset contains information about Netflix's collection of Movies and TV Sh
 
 ---
 
-## 💼 Business Problem
+##  Business Problem
 
 Netflix continuously expands its content library across different countries and genres. Understanding this data can help answer business questions such as:
 
@@ -49,7 +49,7 @@ Netflix continuously expands its content library across different countries and 
 
 ---
 
-## 🤖 Machine Learning Problem
+##  Machine Learning Problem
 
 ### Classification
 
@@ -65,7 +65,7 @@ The dataset can be used to classify whether a title is a **Movie** or a **TV Sho
 
 ---
 
-## 🎯 Target Variable
+##  Target Variable
 
 **Type**
 
@@ -76,7 +76,7 @@ Possible values:
 
 ---
 
-## 🔑 Key Features
+##  Key Features
 
 - Country
 - Release Year
@@ -88,7 +88,7 @@ Possible values:
 
 ---
 
-## 📈 Dataset Exploration
+##  Dataset Exploration
 
 The notebook includes:
 
@@ -105,23 +105,23 @@ The notebook includes:
 
 ---
 
-## 🔍 Key Observations
+##  Key Observations
 
-### 1️⃣ Movies dominate Netflix
+### 1️ Movies dominate Netflix
 
 The platform contains significantly more Movies than TV Shows.
 
-### 2️⃣ Rapid content growth
+### 2️ Rapid content growth
 
 A large portion of Netflix content was released after 2015, indicating rapid expansion in recent years.
 
-### 3️⃣ Missing values
+### 3️ Missing values
 
 Columns such as **Director**, **Country**, and **Cast** contain missing values and require preprocessing before building Machine Learning models.
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -132,7 +132,7 @@ Columns such as **Director**, **Country**, and **Cast** contain missing values a
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Day 1/
@@ -144,7 +144,7 @@ Day 1/
 
 ---
 
-## 🚀 Future Scope
+##  Future Scope
 
 Possible future work includes:
 
@@ -157,7 +157,7 @@ Possible future work includes:
 
 ---
 
-## 📚 Learning Outcomes
+##  Learning Outcomes
 
 Through this assignment, I learned how to:
 
@@ -170,4 +170,4 @@ Through this assignment, I learned how to:
 
 ---
 
-⭐ **μLearn Epochs '26 Bootcamp — Day 1**
+ **μLearn Epochs '26 Bootcamp — Day 1**
