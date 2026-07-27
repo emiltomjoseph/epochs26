@@ -2,7 +2,8 @@
 
 ## μLearn Epochs '26 Bootcamp – Day 4 Assignment
 
-**Author:** Emil Tom Joseph
+**Name:** Emil Tom Joseph
+**Muid:** emiltomjoseph@mulearn
 
 ---
 
