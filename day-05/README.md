@@ -1,4 +1,6 @@
 # Used Car Price Prediction - CarDekho Dataset
+**Name:** Emil Tom Joseph
+**Muid:** emiltomjoseph@mulearn
 
 ## Business Objective
 The goal of this project is to predict the **selling price of used cars** using
