@@ -3,7 +3,7 @@
 ## μLearn Epochs '26 Bootcamp – Day 8 Assignment
 
 **Name:** Emil Tom Joseph  
-**MUID:** *Your MUID Here*
+**MUID:** *emiltomjoseph@mulearn*
 
 ---
 
